@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @K0EKJE
+- ✨ I'm new to github, and currently I'm putting on some of my projects done before. 
 - 👀 I’m interested in Machine Learning, Deep Learning
 - 📫 How to reach me: mm615781876@sina.com
 
